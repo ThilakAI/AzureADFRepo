@@ -1,0 +1,9 @@
+{
+	"name": "adf-satyanat-github",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "74f54487-42db-45c9-8b63-444b2a013059",
+		"tenantId": "3be69946-2bd7-457f-995a-3470ea1592c2"
+	}
+}
