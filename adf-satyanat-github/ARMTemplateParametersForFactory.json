@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "adf-satyanat-github"
+		},
+		"SatyanatBlobStorage_connectionString": {
+			"value": ""
 		}
 	}
 }
